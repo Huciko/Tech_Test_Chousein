@@ -1,0 +1,8 @@
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Persistence\bin\Debug\netcoreapp3.1\AcmeCaseAPI.Persistence.deps.json
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Persistence\bin\Debug\netcoreapp3.1\AcmeCaseAPI.Persistence.dll
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Persistence\bin\Debug\netcoreapp3.1\AcmeCaseAPI.Persistence.pdb
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Persistence\obj\Debug\netcoreapp3.1\AcmeCaseAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Persistence\obj\Debug\netcoreapp3.1\AcmeCaseAPI.Persistence.AssemblyInfo.cs
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Persistence\obj\Debug\netcoreapp3.1\AcmeCaseAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Persistence\obj\Debug\netcoreapp3.1\AcmeCaseAPI.Persistence.dll
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Persistence\obj\Debug\netcoreapp3.1\AcmeCaseAPI.Persistence.pdb

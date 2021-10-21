@@ -1,0 +1,58 @@
+﻿
+/* This file is used to manipulate the loaded swagger documentation UI*/
+
+#swagger-ui {
+    font-family: Helvetica, Arial, Sans-Serif;
+
+}
+
+.swagger-ui .topbar {
+    padding: 10px 0;
+    background-color: #fff;
+}
+
+#select_document {
+    background: #666 !important;
+}
+
+input[name=baseUrl] {
+    display: none !important;
+}
+
+.logo__title {
+    display: none !important;
+}
+
+#api_info a {
+    color: #007bff !important;
+    text-decoration: none !important;
+}
+
+.swagger-ui .topbar .download-url-wrapper .select-label {
+    color: #3b69a7;
+}
+
+.swagger-ui .info {
+    margin: 20px 0;
+}
+
+    .swagger-ui .info .title {
+        font-size: 18px;
+        margin: 0;
+        font-family: sans-serif;
+        color: #3b4151;
+    }
+
+.swagger-ui .opblock-tag {
+    font-size: 18px;
+    margin: 0 0 5px;
+    font-family: sans-serif;
+    color: #3b4151;
+}
+
+#api_info a:hover,
+#api_info a:focus,
+#api_info a:active {
+    color: #0056b3 !important;
+    text-decoration: underline !important;
+}

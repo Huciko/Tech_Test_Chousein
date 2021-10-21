@@ -1,0 +1,13 @@
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Application\bin\Debug\netcoreapp3.1\AcmeCaseAPI.Application.deps.json
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Application\bin\Debug\netcoreapp3.1\AcmeCaseAPI.Application.dll
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Application\bin\Debug\netcoreapp3.1\AcmeCaseAPI.Application.pdb
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Application\bin\Debug\netcoreapp3.1\AcmeCaseAPI.Persistence.dll
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Application\bin\Debug\netcoreapp3.1\AcmeCaseAPI.Persistence.pdb
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Application\obj\Debug\netcoreapp3.1\AcmeCaseAPI.Application.csproj.AssemblyReference.cache
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Application\obj\Debug\netcoreapp3.1\AcmeCaseAPI.Application.AssemblyInfoInputs.cache
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Application\obj\Debug\netcoreapp3.1\AcmeCaseAPI.Application.AssemblyInfo.cs
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Application\obj\Debug\netcoreapp3.1\AcmeCaseAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Application\obj\Debug\netcoreapp3.1\AcmeCaseAPI.Application.csproj.CopyComplete
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Application\obj\Debug\netcoreapp3.1\AcmeCaseAPI.Application.dll
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Application\obj\Debug\netcoreapp3.1\AcmeCaseAPI.Application.pdb
+C:\Users\SSE Engineer\Source\Repos\AcmeCaseAPI\AcmeCaseAPI.Application\bin\Debug\netcoreapp3.1\AcmeCaseAPI.Application.xml

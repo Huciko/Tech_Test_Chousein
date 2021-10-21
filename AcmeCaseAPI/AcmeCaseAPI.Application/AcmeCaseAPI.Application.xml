@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AcmeCaseAPI.Application</name>
+    </assembly>
+    <members>
+        <member name="T:AcmeCaseAPI.Application.Endpoints.Case.Queries.ValidateCaseToClientQuery">
+            <summary>
+            Checks whether the client has access to the specified case.
+            </summary>
+        </member>
+        <member name="T:AcmeCaseAPI.Application.Endpoints.File.Queries.ValidateFileToClientQuery">
+            <summary>
+            Checks whether the client has access to the specified file.
+            </summary>
+        </member>
+    </members>
+</doc>

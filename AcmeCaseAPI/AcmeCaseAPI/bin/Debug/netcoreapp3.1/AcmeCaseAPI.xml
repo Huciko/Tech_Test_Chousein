@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AcmeCaseAPI</name>
+    </assembly>
+    <members>
+        <member name="M:AcmeCaseAPI.Controllers.CaseController.Get">
+            <summary>
+            Returns all cases 
+            </summary>
+            <remarks>Returns all cases</remarks>
+        </member>
+        <member name="T:AcmeCaseAPI.Controllers.v1.FileController">
+            <summary>
+            File Controller
+            </summary>
+        </member>
+        <member name="M:AcmeCaseAPI.Controllers.v1.FileController.Get">
+            <summary>
+            Returns all files info
+            </summary>
+            <remarks>Returns all files info</remarks>
+        </member>
+        <member name="M:AcmeCaseAPI.Controllers.v1.FileController.Get(System.Int32)">
+            <summary>
+            Returns all files info for a case 
+            </summary>
+            <remarks>Returns all files info for a case</remarks>
+            <param name="caseID">Case id</param>
+        </member>
+        <member name="M:AcmeCaseAPI.Controllers.v1.FileController.Download(System.Int32)">
+            <summary>
+            Returns <see cref="T:System.IO.Stream"/> 
+            </summary>
+            <remarks>Returns file</remarks>
+            <param name="fileID">File id</param>
+        </member>
+        <member name="M:AcmeCaseAPI.Infrastructure.Extensions.ServicesExtensions.AddSecurity(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Adds authentication and authorization options to the services
+            </summary>
+            <param name="services"></param>
+            <param name="configuration"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AcmeCaseAPI.Infrastructure.Extensions.ServicesExtensions.AddVersioning(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Adds API versioning options
+            </summary>
+            <param name="services"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AcmeCaseAPI.Infrastructure.Extensions.ServicesExtensions.AddSwaggerDocumentation(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Adds swagger documentation options
+            </summary>
+            <param name="services"></param>
+            <param name="configuration"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AcmeCaseAPI.Infrastructure.Extensions.ServicesExtensions.AddRateLimiting(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Adds rate limiting (throttle) to the API
+            </summary>
+            <param name="services"></param>
+            <param name="configuration"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

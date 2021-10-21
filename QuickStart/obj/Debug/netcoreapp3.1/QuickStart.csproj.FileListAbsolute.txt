@@ -1,0 +1,16 @@
+C:\Users\SSE Engineer\Source\Repos\QuickStart\bin\Debug\netcoreapp3.1\QuickStart.exe
+C:\Users\SSE Engineer\Source\Repos\QuickStart\bin\Debug\netcoreapp3.1\QuickStart.deps.json
+C:\Users\SSE Engineer\Source\Repos\QuickStart\bin\Debug\netcoreapp3.1\QuickStart.runtimeconfig.json
+C:\Users\SSE Engineer\Source\Repos\QuickStart\bin\Debug\netcoreapp3.1\QuickStart.runtimeconfig.dev.json
+C:\Users\SSE Engineer\Source\Repos\QuickStart\bin\Debug\netcoreapp3.1\QuickStart.dll
+C:\Users\SSE Engineer\Source\Repos\QuickStart\bin\Debug\netcoreapp3.1\QuickStart.pdb
+C:\Users\SSE Engineer\Source\Repos\QuickStart\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\SSE Engineer\Source\Repos\QuickStart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SSE Engineer\Source\Repos\QuickStart\obj\Debug\netcoreapp3.1\QuickStart.csproj.AssemblyReference.cache
+C:\Users\SSE Engineer\Source\Repos\QuickStart\obj\Debug\netcoreapp3.1\QuickStart.AssemblyInfoInputs.cache
+C:\Users\SSE Engineer\Source\Repos\QuickStart\obj\Debug\netcoreapp3.1\QuickStart.AssemblyInfo.cs
+C:\Users\SSE Engineer\Source\Repos\QuickStart\obj\Debug\netcoreapp3.1\QuickStart.csproj.CoreCompileInputs.cache
+C:\Users\SSE Engineer\Source\Repos\QuickStart\obj\Debug\netcoreapp3.1\QuickStart.csproj.CopyComplete
+C:\Users\SSE Engineer\Source\Repos\QuickStart\obj\Debug\netcoreapp3.1\QuickStart.dll
+C:\Users\SSE Engineer\Source\Repos\QuickStart\obj\Debug\netcoreapp3.1\QuickStart.pdb
+C:\Users\SSE Engineer\Source\Repos\QuickStart\obj\Debug\netcoreapp3.1\QuickStart.genruntimeconfig.cache

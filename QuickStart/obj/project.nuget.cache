@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BPwHP/dwYxy18EBzX0l6RO7Pu7K2Zo289+RNAzxRpOiP1uYKkpRg/s00F/iePNQFvHBDRnY8DUMiP1qewjkYvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SSE Engineer\\Source\\Repos\\QuickStart\\QuickStart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SSE Engineer\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\SSE Engineer\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\SSE Engineer\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
